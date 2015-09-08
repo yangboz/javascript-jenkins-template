@@ -9,4 +9,8 @@ https://github.com/boxuk/jslint-jenkins-plugin
 
 http://www.eriwen.com/tools/continuous-integration-for-javascript/
 
+##JSDuck
+
+https://github.com/senchalabs/jsduck/
+
 ##TaskScan
